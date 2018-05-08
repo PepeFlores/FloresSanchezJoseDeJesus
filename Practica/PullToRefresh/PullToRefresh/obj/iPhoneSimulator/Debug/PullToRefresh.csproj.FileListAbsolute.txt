@@ -1,0 +1,13 @@
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/2 Parcial/PullToRefresh/PullToRefresh/bin/iPhoneSimulator/Debug/PullToRefresh.exe
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/2 Parcial/PullToRefresh/PullToRefresh/bin/iPhoneSimulator/Debug/PullToRefresh.pdb
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/2 Parcial/PullToRefresh/PullToRefresh/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/2 Parcial/PullToRefresh/PullToRefresh/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/2 Parcial/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/2 Parcial/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/2 Parcial/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/2 Parcial/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/2 Parcial/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/2 Parcial/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/2 Parcial/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/PullToRefresh.csproj.CoreCompileInputs.cache
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/2 Parcial/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/PullToRefresh.exe
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/2 Parcial/PullToRefresh/PullToRefresh/obj/iPhoneSimulator/Debug/PullToRefresh.pdb
