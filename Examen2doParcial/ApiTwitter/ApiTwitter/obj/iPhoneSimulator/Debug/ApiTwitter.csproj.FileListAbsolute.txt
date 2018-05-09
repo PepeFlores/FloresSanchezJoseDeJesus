@@ -1,0 +1,58 @@
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/ApiTwitter.csprojResolveAssemblyReference.cache
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/ApiTwitter.exe.config
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/ApiTwitter.csproj.CoreCompileInputs.cache
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/ApiTwitter.exe.config
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/ApiTwitter.exe
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/ApiTwitter.pdb
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/LinqToTwitter.xamarin.dll
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.dll
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.Core.dll
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.Interfaces.dll
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.Linq.dll
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.PlatformServices.dll
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.xml
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.xml
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.Interfaces.xml
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.Core.xml
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.Linq.xml
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.PlatformServices.xml
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/ApiTwitter.exe
+/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/ApiTwitter.pdb
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/ApiTwitter.csprojResolveAssemblyReference.cache
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/ApiTwitter.exe.config
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/ApiTwitter.csproj.CoreCompileInputs.cache
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/ApiTwitter.exe.config
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/ApiTwitter.exe
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/ApiTwitter.pdb
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/LinqToTwitter.xamarin.dll
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.dll
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.Core.dll
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.Interfaces.dll
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.Linq.dll
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.PlatformServices.dll
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.xml
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.xml
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.Interfaces.xml
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.Core.xml
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.Linq.xml
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/System.Reactive.PlatformServices.xml
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/ApiTwitter.exe
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/Examen/ApiTwitter/ApiTwitter/obj/iPhoneSimulator/Debug/ApiTwitter.pdb
